@@ -479,7 +479,6 @@ frame.expansion=0
 inherits=GenericFrame
 frame=false
 interior=false
-interior=false
 
 [Window]
 interior=true
